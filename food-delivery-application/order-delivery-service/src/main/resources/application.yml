@@ -1,0 +1,9 @@
+server:
+  port: 9103
+spring:
+  application:
+    name: order-delivery-service
+  cloud:
+    stream:
+      bindings:
+        input: order

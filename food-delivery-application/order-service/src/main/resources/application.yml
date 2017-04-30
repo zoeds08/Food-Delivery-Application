@@ -1,0 +1,10 @@
+server:
+  port: 9101
+spring:
+  application:
+    name: Order-service
+
+com:
+  yizhang:
+    payment:
+      service: http://localhost:9102
