@@ -1,7 +1,0 @@
-Food Delivery Application:
-1. Restaurant Discovery Service
-2. Order Service
-3. Payment Service
-4. Order Delivery Service
-
-There is a lot confusion about contacting between microservices without MQ.
